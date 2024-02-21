@@ -6,6 +6,6 @@ Welcome to my GitHub portfolio! Here, you'll find my MatLab code that I've devel
 
 Feel free to leaf through my work and please reach out if any of this work aligns with what you're working on.
 
-Further, if you'd like to see some of my design work, you can visit my mechanical design portfolio at this [link.](mattcowley.me)
+Further, if you'd like to see some of my design work, you can visit my mechanical design portfolio at this [link.](https://www.mattcowley.me)
 
 Thank you again for your interest in my work!
