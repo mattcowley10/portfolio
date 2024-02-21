@@ -3,5 +3,5 @@ Welcome to my GitHub portfolio! Here, you'll find my MatLab code that I've devel
 * Vibrations
 * Mechanics of Materials
 * Systems Modeling
-* Dynamics Modeling
+* Dynamics Modeling *
 Feel free to leaf through my work and please reach out if any of this work aligns with what you're working on.
